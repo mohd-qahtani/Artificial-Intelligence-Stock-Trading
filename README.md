@@ -35,4 +35,4 @@ As Tadawul is the sole entity authorized in the Kingdom of Saudi Arabia to act a
 The potential challenges might vary from Data acquisitions, features extraction, model architecture,  model accuracy, and deployment.
 
 
-it’s a challenge .. and we’re up for it :) 
+It’s a challenge .. and we’re up for it :) 
